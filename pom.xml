@@ -96,13 +96,13 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>MTN-Release</name>
+	      <name>Mycar-Release</name>
 	      <url>http:/18.246.60.39/repository/mycar-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>MTN-Snapshots</name>
+	      <name>Mycar-Snapshots</name>
 	      <url>http:/18.246.60.39/:8081/repository/mycar-snapshot/</url>
 	    </snapshotRepository>
 	    
